@@ -1,0 +1,60 @@
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.AssemblyReference.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\FirstPage.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\MainWindow.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1_MarkupCompile.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1_MarkupCompile.lref
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\WPFapp1.exe.config
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\WPFapp1.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\WPFapp1.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\App.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\App.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\FirstPage.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\MainWindow.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.g.resources
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.Properties.Resources.resources
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.GenerateResource.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.CopyComplete
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\WPFapp1.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\SecondPage.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практосы\Для пересдачи\WPFapp1\WPFapp1\obj\Debug\SecondPage.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\WPFapp1.exe.config
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\WPFapp1.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\WPFapp1.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.AssemblyReference.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\FirstPage.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\MainWindow.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\SecondPage.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\App.g.cs
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1_MarkupCompile.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1_MarkupCompile.lref
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\App.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\FirstPage.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\MainWindow.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\SecondPage.baml
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.g.resources
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.Properties.Resources.resources
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.GenerateResource.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.CoreCompileInputs.cache
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.csproj.CopyComplete
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.exe
+C:\Users\Matvey\Documents\Си шарп\Технарь\Практика\WPFapp1\WPFapp1\obj\Debug\WPFapp1.pdb
